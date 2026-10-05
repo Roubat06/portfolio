@@ -1,0 +1,6 @@
+{
+  "name": "Roubat Ghosh — Engineering Portfolio",
+  "description": "Source-verified full-stack and AI engineering portfolio featuring Striveda, v0-commerce-student-platform, LifeCoachX, Sonor, and TamperLock with a grounded RAG knowledge assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
